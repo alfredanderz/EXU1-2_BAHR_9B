@@ -1,3 +1,6 @@
 Archivo de la actividad 2 - Brandon Alfredo Hernandez Rodriguez
 Párrafo 2 desde main 
 Párrafo 3 desde main
+
+Párrafo #1 desde user1
+Párrafo #2 desde user1
